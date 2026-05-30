@@ -131,6 +131,8 @@ Spices and cereals are high-risk categories — both showed double-digit index i
 Domestic fuel prices are policy-insulated — low oil-CPI correlation confirms the government shields consumers from global crude shocks via subsidies and price controls.
 Inflation moderated in 2023 — after peaking in 2021–22, YoY inflation eased to ~5.6% by May 2023, still above the RBI's 4% target.
 
+data-https://docs.google.com/spreadsheets/d/1kP7s6X730a48vjRHc8_CVpeyONC9v1Fm/edit?gid=566459491#gid=566459491
+
 
 📎 Data Source
 MoSPI CPI Data: mospi.gov.in
